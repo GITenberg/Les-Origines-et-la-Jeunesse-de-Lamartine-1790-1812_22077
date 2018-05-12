@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25080'
     url: http://www.gutenberg.org/2009/agents/25080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22077#Les-Origines-et-la-Jeunesse-de-Lamartine-1790-1812
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-07-15'
 gutenberg_type: Text
